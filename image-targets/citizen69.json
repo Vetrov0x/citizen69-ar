@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/citizen69_luminance.jpg",
+  "metadata": null,
+  "name": "citizen69",
+  "type": "PLANAR",
+  "properties": {
+    "left": 250,
+    "top": 0,
+    "width": 1500,
+    "height": 2000,
+    "isRotated": true,
+    "originalWidth": 2000,
+    "originalHeight": 2000
+  },
+  "resources": {
+    "originalImage": "citizen69_original.jpg",
+    "croppedImage": "citizen69_cropped.jpg",
+    "thumbnailImage": "citizen69_thumbnail.jpg",
+    "luminanceImage": "citizen69_luminance.jpg"
+  },
+  "created": 1782396461166,
+  "updated": 1782396461166
+}
